@@ -1,0 +1,6 @@
+Libelle,Valeur
+Categorie 1,8
+Categorie 2,4
+Categorie 3,6
+Categorie 4,2
+Categorie 5,9
